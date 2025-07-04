@@ -9,6 +9,7 @@ What I Learned:
 
 Dataset:
 Used a combined dataset of 50000 movie reviews (25000 positive, 25000 negative)
+SOURCE : Kaggle
 
 Model Accuracy:
 Approximately 88% accuracy on the test set
